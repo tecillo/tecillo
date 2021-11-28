@@ -1,6 +1,7 @@
 Hi there ✌️
 
 I am Andrey Goldyrev. Welcome to my GitHub! 🌴🌴🌴☀️
+
 I’m a student of QA Course by Vadim Ksenzov.
 
 My skills:
