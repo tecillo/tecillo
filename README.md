@@ -22,5 +22,7 @@ My skills:
 
 ✔️ [**AndroidStudio_ADB**(watch my homework)](https://github.com/tecillo/A_Goldyrev_QA_Vadim_Courses/blob/main/ADB/01_HW_adb.MD)
 
+✔️ [**Python_bases**(watch my homework)](https://github.com/tecillo/tecillo-A_Goldyrev_PY_Vadim_Courses)
+
 
 Follow me: [Linkedin](www.linkedin.com/in/andrey-goldyrev)
